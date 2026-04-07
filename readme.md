@@ -24,3 +24,12 @@ This project implements an end-to-end pipeline for decoding and processing Senti
 8. Generate SAR image
 
 ## 📁 Project Structure
+
+
+## Output Comparison
+
+### Our Algorithm Output
+![Our Output](results/our_algorithm_output.jpeg)
+
+### SNAP Processed Output
+![SNAP Output](results/snap_output.jpeg)
